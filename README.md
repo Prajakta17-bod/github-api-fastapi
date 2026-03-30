@@ -1,13 +1,16 @@
 # Github API Fastapi Project
 
-**Overview**
+##Overview##
 
 This is a FastAPI-based backend project that interacts with the GitHub API.
 It allows users to fetch repositories and issues of a GitHub user through simple API endpoints.
 
-## Tech Stack
+**Tech Stack**
 
 Python
+
 FastAPI
+
 Uvicorn
+
 Request
